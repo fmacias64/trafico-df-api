@@ -15,3 +15,4 @@ Fuentes
 - [Reporte Vial Radiocentro](http://rvial.mx/)
 - [Twitter Reporte Vial Radiocentro](https://twitter.com/ReporteVialDF)
 - [Twitter TrficoReporte Grupo Imagen](https://twitter.com/TraficoReporte)
+- [Bing Traffic API](http://msdn.microsoft.com/en-us/library/hh441725.aspx)
